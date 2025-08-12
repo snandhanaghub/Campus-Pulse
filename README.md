@@ -39,10 +39,10 @@ By integrating **React.js** for a dynamic frontend, **Node.js/Express.js** for a
 ---
 
 ## Team
-- **Nandhana S**: Full Stack Developer – Responsible for end-to-end development, integration, and feature implementation across frontend and backend.  
-- **Neeraja Manohar**: Database Engineer – Designed and optimized the relational database schema, ensuring efficient queries and data integrity.  
-- **Niya Vinu**: Frontend Developer – Developed responsive UI components, handled state management, and implemented event display logic.  
-- **Vivek Nair C**: Backend Developer – Built and maintained the API endpoints, implemented authentication systems, and handled server-side logic.  
+- **Nandhana S**: Full Stack Developer (End-to-end development, integration, and feature implementation across frontend and backend)
+- **Neeraja Manohar**: Database Engineer (Designed and optimized the relational database schema, ensuring efficient queries and data integrity)  
+- **Niya Vinu**: Frontend Developer (Developed responsive UI components, handled state management, and implemented event display logic)
+- **Vivek Nair C**: Backend Developer (Built and maintained the API endpoints, implemented authentication systems, and handled server-side logic)
 
 ---
 
